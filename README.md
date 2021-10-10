@@ -1,5 +1,5 @@
 # solidworks_projects
-
+SolidWorks projects from Engineering Graphics course.
 # Belt Tightener
 ![image](https://user-images.githubusercontent.com/25506296/136693531-5a59470a-f59a-4fdc-b8d4-92caf41ad913.png)
 
