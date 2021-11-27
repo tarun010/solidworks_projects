@@ -1,5 +1,5 @@
 # solidworks_projects
-May 2018: Computer-Aided Design projects using Dassault SolidWorks - Engineering Graphics course.
+May 2018: Computer-Aided Design Engineering Graphics using Dassault SolidWorks.
 # Belt Tightener
 ![image](https://user-images.githubusercontent.com/25506296/136693531-5a59470a-f59a-4fdc-b8d4-92caf41ad913.png)
 
